@@ -6,6 +6,6 @@ vo=$(python @grape.py 2>&1)
 echo $vo >> test.csv
 vo=$(node @_drjimoh.js 2>&1)
 echo $vo >> test.csv
-vo=$(Rscript task1_azlan.R 2>&1)
+vo=$(Rscript azlan.R 2>&1)
 echo $vo >> test.csv
 echo "Done"
