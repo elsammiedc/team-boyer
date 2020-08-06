@@ -1,6 +1,13 @@
 #!/bin/bash
-echo Name: Gracious
-echo Email: grapemw@gmail.com
-echo Language: Bash
-echo Biostack: Genomics
-echo Slack_name: @grape
+NAME=Gracious_Mwandira
+echo $NAME
+EMAIL=grapemw@gmail.com
+echo $EMAIL
+LANGUAGE=Bash
+echo $LANGUAGE
+BIOSTACK=Genomics
+echo $BIOSTACK
+SLACK_NAME=@grape
+echo $SLACK_NAME
+
+exit
