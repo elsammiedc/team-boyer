@@ -5,6 +5,8 @@ var language = "JavaScript";
 var biostack = "PROTEOMICS";
 var username = "@_drjimoh";
 
-console.log( "Name: ", name, " email: ", email, " language: ", language, " biostack: ", biostack, " username: " , username) 
+console.log( name, "," , email, ",", language, ",", biostack, ",", username) 
 
 };
+
+task()
